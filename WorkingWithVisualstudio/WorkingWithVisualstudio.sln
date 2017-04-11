@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A8E57AD4-7E18-4D98-8AAB-C8A434EC3B14}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2876F77D-4FCB-432B-BC66-3890D316A81F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{995D7720-1B75-48CE-B280-07A18C17EC90}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithVisualstudio", "src\WorkingWithVisualstudio\WorkingWithVisualstudio.csproj", "{13A6051E-FBEF-4257-AC86-B51177B164F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithVisualStudio.Tests", "test\WorkingWithVisualStudio.Tests\WorkingWithVisualStudio.Tests.csproj", "{58F7CE75-0836-447B-B864-74C092A6CC2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13A6051E-FBEF-4257-AC86-B51177B164F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A6051E-FBEF-4257-AC86-B51177B164F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A6051E-FBEF-4257-AC86-B51177B164F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A6051E-FBEF-4257-AC86-B51177B164F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58F7CE75-0836-447B-B864-74C092A6CC2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F7CE75-0836-447B-B864-74C092A6CC2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F7CE75-0836-447B-B864-74C092A6CC2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F7CE75-0836-447B-B864-74C092A6CC2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{13A6051E-FBEF-4257-AC86-B51177B164F2} = {A8E57AD4-7E18-4D98-8AAB-C8A434EC3B14}
+		{58F7CE75-0836-447B-B864-74C092A6CC2A} = {995D7720-1B75-48CE-B280-07A18C17EC90}
+	EndGlobalSection
+EndGlobal

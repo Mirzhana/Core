@@ -1,0 +1,18 @@
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\WorkingWithVisualstudio\src\WorkingWithVisualstudio\bin\Debug\netcoreapp1.0\WorkingWithVisualstudio.deps.json
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\WorkingWithVisualstudio\src\WorkingWithVisualstudio\bin\Debug\netcoreapp1.0\WorkingWithVisualstudio.runtimeconfig.json
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\WorkingWithVisualstudio\src\WorkingWithVisualstudio\bin\Debug\netcoreapp1.0\WorkingWithVisualstudio.runtimeconfig.dev.json
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\WorkingWithVisualstudio\src\WorkingWithVisualstudio\bin\Debug\netcoreapp1.0\WorkingWithVisualstudio.dll
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\WorkingWithVisualstudio\src\WorkingWithVisualstudio\bin\Debug\netcoreapp1.0\WorkingWithVisualstudio.pdb
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\WorkingWithVisualstudio\src\WorkingWithVisualstudio\obj\Debug\netcoreapp1.0\WorkingWithVisualstudio.csprojResolveAssemblyReference.cache
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\WorkingWithVisualstudio\src\WorkingWithVisualstudio\obj\Debug\netcoreapp1.0\WorkingWithVisualstudio.AssemblyInfo.cs
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\WorkingWithVisualstudio\src\WorkingWithVisualstudio\obj\Debug\netcoreapp1.0\WorkingWithVisualstudio.dll
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\WorkingWithVisualstudio\src\WorkingWithVisualstudio\obj\Debug\netcoreapp1.0\WorkingWithVisualstudio.pdb
+C:\Users\Erebus\Source\Repos\Core\WorkingWithVisualstudio\src\WorkingWithVisualstudio\bin\Debug\netcoreapp1.0\WorkingWithVisualstudio.deps.json
+C:\Users\Erebus\Source\Repos\Core\WorkingWithVisualstudio\src\WorkingWithVisualstudio\bin\Debug\netcoreapp1.0\WorkingWithVisualstudio.runtimeconfig.json
+C:\Users\Erebus\Source\Repos\Core\WorkingWithVisualstudio\src\WorkingWithVisualstudio\bin\Debug\netcoreapp1.0\WorkingWithVisualstudio.runtimeconfig.dev.json
+C:\Users\Erebus\Source\Repos\Core\WorkingWithVisualstudio\src\WorkingWithVisualstudio\bin\Debug\netcoreapp1.0\WorkingWithVisualstudio.dll
+C:\Users\Erebus\Source\Repos\Core\WorkingWithVisualstudio\src\WorkingWithVisualstudio\bin\Debug\netcoreapp1.0\WorkingWithVisualstudio.pdb
+C:\Users\Erebus\Source\Repos\Core\WorkingWithVisualstudio\src\WorkingWithVisualstudio\obj\Debug\netcoreapp1.0\WorkingWithVisualstudio.csprojResolveAssemblyReference.cache
+C:\Users\Erebus\Source\Repos\Core\WorkingWithVisualstudio\src\WorkingWithVisualstudio\obj\Debug\netcoreapp1.0\WorkingWithVisualstudio.AssemblyInfo.cs
+C:\Users\Erebus\Source\Repos\Core\WorkingWithVisualstudio\src\WorkingWithVisualstudio\obj\Debug\netcoreapp1.0\WorkingWithVisualstudio.dll
+C:\Users\Erebus\Source\Repos\Core\WorkingWithVisualstudio\src\WorkingWithVisualstudio\obj\Debug\netcoreapp1.0\WorkingWithVisualstudio.pdb

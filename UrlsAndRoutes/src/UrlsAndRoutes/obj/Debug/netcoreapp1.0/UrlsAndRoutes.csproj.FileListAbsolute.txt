@@ -1,0 +1,9 @@
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\UrlsAndRoutes\src\UrlsAndRoutes\bin\Debug\netcoreapp1.0\UrlsAndRoutes.deps.json
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\UrlsAndRoutes\src\UrlsAndRoutes\bin\Debug\netcoreapp1.0\UrlsAndRoutes.runtimeconfig.json
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\UrlsAndRoutes\src\UrlsAndRoutes\bin\Debug\netcoreapp1.0\UrlsAndRoutes.runtimeconfig.dev.json
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\UrlsAndRoutes\src\UrlsAndRoutes\bin\Debug\netcoreapp1.0\UrlsAndRoutes.dll
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\UrlsAndRoutes\src\UrlsAndRoutes\bin\Debug\netcoreapp1.0\UrlsAndRoutes.pdb
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\UrlsAndRoutes\src\UrlsAndRoutes\obj\Debug\netcoreapp1.0\UrlsAndRoutes.csprojResolveAssemblyReference.cache
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\UrlsAndRoutes\src\UrlsAndRoutes\obj\Debug\netcoreapp1.0\UrlsAndRoutes.AssemblyInfo.cs
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\UrlsAndRoutes\src\UrlsAndRoutes\obj\Debug\netcoreapp1.0\UrlsAndRoutes.dll
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\UrlsAndRoutes\src\UrlsAndRoutes\obj\Debug\netcoreapp1.0\UrlsAndRoutes.pdb

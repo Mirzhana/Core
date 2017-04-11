@@ -9359,10 +9359,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Erebus\\Source\\Repos\\ASPCore\\PartyInvites\\src\\PartyInvites\\PartyInvites.csproj",
+      "projectUniqueName": "C:\\Users\\Erebus\\Source\\Repos\\Core\\PartyInvites\\src\\PartyInvites\\PartyInvites.csproj",
       "projectName": "PartyInvites",
-      "projectPath": "C:\\Users\\Erebus\\Source\\Repos\\ASPCore\\PartyInvites\\src\\PartyInvites\\PartyInvites.csproj",
-      "outputPath": "C:\\Users\\Erebus\\Source\\Repos\\ASPCore\\PartyInvites\\src\\PartyInvites\\obj\\",
+      "projectPath": "C:\\Users\\Erebus\\Source\\Repos\\Core\\PartyInvites\\src\\PartyInvites\\PartyInvites.csproj",
+      "outputPath": "C:\\Users\\Erebus\\Source\\Repos\\Core\\PartyInvites\\src\\PartyInvites\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.0"

@@ -1,0 +1,18 @@
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\DependencyInjection\src\DependencyInjection\bin\Debug\netcoreapp1.0\DependencyInjection.deps.json
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\DependencyInjection\src\DependencyInjection\bin\Debug\netcoreapp1.0\DependencyInjection.runtimeconfig.json
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\DependencyInjection\src\DependencyInjection\bin\Debug\netcoreapp1.0\DependencyInjection.runtimeconfig.dev.json
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\DependencyInjection\src\DependencyInjection\bin\Debug\netcoreapp1.0\DependencyInjection.dll
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\DependencyInjection\src\DependencyInjection\bin\Debug\netcoreapp1.0\DependencyInjection.pdb
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\DependencyInjection\src\DependencyInjection\obj\Debug\netcoreapp1.0\DependencyInjection.csprojResolveAssemblyReference.cache
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\DependencyInjection\src\DependencyInjection\obj\Debug\netcoreapp1.0\DependencyInjection.AssemblyInfo.cs
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\DependencyInjection\src\DependencyInjection\obj\Debug\netcoreapp1.0\DependencyInjection.dll
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\DependencyInjection\src\DependencyInjection\obj\Debug\netcoreapp1.0\DependencyInjection.pdb
+C:\Users\Erebus\Source\Repos\Core\DependencyInjection\src\DependencyInjection\bin\Debug\netcoreapp1.0\DependencyInjection.deps.json
+C:\Users\Erebus\Source\Repos\Core\DependencyInjection\src\DependencyInjection\bin\Debug\netcoreapp1.0\DependencyInjection.runtimeconfig.json
+C:\Users\Erebus\Source\Repos\Core\DependencyInjection\src\DependencyInjection\bin\Debug\netcoreapp1.0\DependencyInjection.runtimeconfig.dev.json
+C:\Users\Erebus\Source\Repos\Core\DependencyInjection\src\DependencyInjection\bin\Debug\netcoreapp1.0\DependencyInjection.dll
+C:\Users\Erebus\Source\Repos\Core\DependencyInjection\src\DependencyInjection\bin\Debug\netcoreapp1.0\DependencyInjection.pdb
+C:\Users\Erebus\Source\Repos\Core\DependencyInjection\src\DependencyInjection\obj\Debug\netcoreapp1.0\DependencyInjection.csprojResolveAssemblyReference.cache
+C:\Users\Erebus\Source\Repos\Core\DependencyInjection\src\DependencyInjection\obj\Debug\netcoreapp1.0\DependencyInjection.AssemblyInfo.cs
+C:\Users\Erebus\Source\Repos\Core\DependencyInjection\src\DependencyInjection\obj\Debug\netcoreapp1.0\DependencyInjection.dll
+C:\Users\Erebus\Source\Repos\Core\DependencyInjection\src\DependencyInjection\obj\Debug\netcoreapp1.0\DependencyInjection.pdb

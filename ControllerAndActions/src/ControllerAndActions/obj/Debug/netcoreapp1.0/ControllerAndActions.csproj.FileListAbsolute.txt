@@ -1,0 +1,9 @@
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\ControllerAndActions\src\ControllerAndActions\bin\Debug\netcoreapp1.0\ControllerAndActions.deps.json
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\ControllerAndActions\src\ControllerAndActions\bin\Debug\netcoreapp1.0\ControllerAndActions.runtimeconfig.json
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\ControllerAndActions\src\ControllerAndActions\bin\Debug\netcoreapp1.0\ControllerAndActions.runtimeconfig.dev.json
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\ControllerAndActions\src\ControllerAndActions\bin\Debug\netcoreapp1.0\ControllerAndActions.dll
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\ControllerAndActions\src\ControllerAndActions\bin\Debug\netcoreapp1.0\ControllerAndActions.pdb
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\ControllerAndActions\src\ControllerAndActions\obj\Debug\netcoreapp1.0\ControllerAndActions.csprojResolveAssemblyReference.cache
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\ControllerAndActions\src\ControllerAndActions\obj\Debug\netcoreapp1.0\ControllerAndActions.AssemblyInfo.cs
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\ControllerAndActions\src\ControllerAndActions\obj\Debug\netcoreapp1.0\ControllerAndActions.dll
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\ControllerAndActions\src\ControllerAndActions\obj\Debug\netcoreapp1.0\ControllerAndActions.pdb

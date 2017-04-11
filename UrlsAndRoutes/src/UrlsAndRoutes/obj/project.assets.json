@@ -9187,10 +9187,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Erebus\\Documents\\Visual Studio 2017\\Projects\\UrlsAndRoutes\\src\\UrlsAndRoutes\\UrlsAndRoutes.csproj",
+      "projectUniqueName": "C:\\Users\\Erebus\\Source\\Repos\\Core\\UrlsAndRoutes\\src\\UrlsAndRoutes\\UrlsAndRoutes.csproj",
       "projectName": "UrlsAndRoutes",
-      "projectPath": "C:\\Users\\Erebus\\Documents\\Visual Studio 2017\\Projects\\UrlsAndRoutes\\src\\UrlsAndRoutes\\UrlsAndRoutes.csproj",
-      "outputPath": "C:\\Users\\Erebus\\Documents\\Visual Studio 2017\\Projects\\UrlsAndRoutes\\src\\UrlsAndRoutes\\obj\\",
+      "projectPath": "C:\\Users\\Erebus\\Source\\Repos\\Core\\UrlsAndRoutes\\src\\UrlsAndRoutes\\UrlsAndRoutes.csproj",
+      "outputPath": "C:\\Users\\Erebus\\Source\\Repos\\Core\\UrlsAndRoutes\\src\\UrlsAndRoutes\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.0"

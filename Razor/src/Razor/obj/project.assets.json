@@ -9157,10 +9157,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Erebus\\Documents\\Visual Studio 2017\\Projects\\ASP.NET Core\\Razor\\src\\Razor\\Razor.csproj",
+      "projectUniqueName": "C:\\Users\\Erebus\\Source\\Repos\\Core\\Razor\\src\\Razor\\Razor.csproj",
       "projectName": "Razor",
-      "projectPath": "C:\\Users\\Erebus\\Documents\\Visual Studio 2017\\Projects\\ASP.NET Core\\Razor\\src\\Razor\\Razor.csproj",
-      "outputPath": "C:\\Users\\Erebus\\Documents\\Visual Studio 2017\\Projects\\ASP.NET Core\\Razor\\src\\Razor\\obj\\",
+      "projectPath": "C:\\Users\\Erebus\\Source\\Repos\\Core\\Razor\\src\\Razor\\Razor.csproj",
+      "outputPath": "C:\\Users\\Erebus\\Source\\Repos\\Core\\Razor\\src\\Razor\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.0"

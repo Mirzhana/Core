@@ -7,3 +7,12 @@ C:\Users\Erebus\Documents\Visual Studio 2017\Projects\Razor\src\Razor\obj\Debug\
 C:\Users\Erebus\Documents\Visual Studio 2017\Projects\Razor\src\Razor\obj\Debug\netcoreapp1.0\Razor.AssemblyInfo.cs
 C:\Users\Erebus\Documents\Visual Studio 2017\Projects\Razor\src\Razor\obj\Debug\netcoreapp1.0\Razor.dll
 C:\Users\Erebus\Documents\Visual Studio 2017\Projects\Razor\src\Razor\obj\Debug\netcoreapp1.0\Razor.pdb
+C:\Users\Erebus\Source\Repos\Core\Razor\src\Razor\bin\Debug\netcoreapp1.0\Razor.deps.json
+C:\Users\Erebus\Source\Repos\Core\Razor\src\Razor\bin\Debug\netcoreapp1.0\Razor.runtimeconfig.json
+C:\Users\Erebus\Source\Repos\Core\Razor\src\Razor\bin\Debug\netcoreapp1.0\Razor.runtimeconfig.dev.json
+C:\Users\Erebus\Source\Repos\Core\Razor\src\Razor\bin\Debug\netcoreapp1.0\Razor.dll
+C:\Users\Erebus\Source\Repos\Core\Razor\src\Razor\bin\Debug\netcoreapp1.0\Razor.pdb
+C:\Users\Erebus\Source\Repos\Core\Razor\src\Razor\obj\Debug\netcoreapp1.0\Razor.csprojResolveAssemblyReference.cache
+C:\Users\Erebus\Source\Repos\Core\Razor\src\Razor\obj\Debug\netcoreapp1.0\Razor.AssemblyInfo.cs
+C:\Users\Erebus\Source\Repos\Core\Razor\src\Razor\obj\Debug\netcoreapp1.0\Razor.dll
+C:\Users\Erebus\Source\Repos\Core\Razor\src\Razor\obj\Debug\netcoreapp1.0\Razor.pdb

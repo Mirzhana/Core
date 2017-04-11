@@ -1,0 +1,27 @@
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\PartyInvites\src\PartyInvites\bin\Debug\netcoreapp1.0\PartyInvites.deps.json
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\PartyInvites\src\PartyInvites\bin\Debug\netcoreapp1.0\PartyInvites.runtimeconfig.json
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\PartyInvites\src\PartyInvites\bin\Debug\netcoreapp1.0\PartyInvites.runtimeconfig.dev.json
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\PartyInvites\src\PartyInvites\bin\Debug\netcoreapp1.0\PartyInvites.dll
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\PartyInvites\src\PartyInvites\bin\Debug\netcoreapp1.0\PartyInvites.pdb
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\PartyInvites\src\PartyInvites\obj\Debug\netcoreapp1.0\PartyInvites.csprojResolveAssemblyReference.cache
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\PartyInvites\src\PartyInvites\obj\Debug\netcoreapp1.0\PartyInvites.AssemblyInfo.cs
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\PartyInvites\src\PartyInvites\obj\Debug\netcoreapp1.0\PartyInvites.dll
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\PartyInvites\src\PartyInvites\obj\Debug\netcoreapp1.0\PartyInvites.pdb
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\ASP.NET Core\PartyInvites\src\PartyInvites\bin\Debug\netcoreapp1.0\PartyInvites.deps.json
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\ASP.NET Core\PartyInvites\src\PartyInvites\bin\Debug\netcoreapp1.0\PartyInvites.runtimeconfig.json
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\ASP.NET Core\PartyInvites\src\PartyInvites\bin\Debug\netcoreapp1.0\PartyInvites.runtimeconfig.dev.json
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\ASP.NET Core\PartyInvites\src\PartyInvites\bin\Debug\netcoreapp1.0\PartyInvites.dll
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\ASP.NET Core\PartyInvites\src\PartyInvites\bin\Debug\netcoreapp1.0\PartyInvites.pdb
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\ASP.NET Core\PartyInvites\src\PartyInvites\obj\Debug\netcoreapp1.0\PartyInvites.csprojResolveAssemblyReference.cache
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\ASP.NET Core\PartyInvites\src\PartyInvites\obj\Debug\netcoreapp1.0\PartyInvites.AssemblyInfo.cs
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\ASP.NET Core\PartyInvites\src\PartyInvites\obj\Debug\netcoreapp1.0\PartyInvites.dll
+C:\Users\Erebus\Documents\Visual Studio 2017\Projects\ASP.NET Core\PartyInvites\src\PartyInvites\obj\Debug\netcoreapp1.0\PartyInvites.pdb
+C:\Users\Erebus\Source\Repos\ASPCore\PartyInvites\src\PartyInvites\bin\Debug\netcoreapp1.0\PartyInvites.deps.json
+C:\Users\Erebus\Source\Repos\ASPCore\PartyInvites\src\PartyInvites\bin\Debug\netcoreapp1.0\PartyInvites.runtimeconfig.json
+C:\Users\Erebus\Source\Repos\ASPCore\PartyInvites\src\PartyInvites\bin\Debug\netcoreapp1.0\PartyInvites.runtimeconfig.dev.json
+C:\Users\Erebus\Source\Repos\ASPCore\PartyInvites\src\PartyInvites\bin\Debug\netcoreapp1.0\PartyInvites.dll
+C:\Users\Erebus\Source\Repos\ASPCore\PartyInvites\src\PartyInvites\bin\Debug\netcoreapp1.0\PartyInvites.pdb
+C:\Users\Erebus\Source\Repos\ASPCore\PartyInvites\src\PartyInvites\obj\Debug\netcoreapp1.0\PartyInvites.csprojResolveAssemblyReference.cache
+C:\Users\Erebus\Source\Repos\ASPCore\PartyInvites\src\PartyInvites\obj\Debug\netcoreapp1.0\PartyInvites.AssemblyInfo.cs
+C:\Users\Erebus\Source\Repos\ASPCore\PartyInvites\src\PartyInvites\obj\Debug\netcoreapp1.0\PartyInvites.dll
+C:\Users\Erebus\Source\Repos\ASPCore\PartyInvites\src\PartyInvites\obj\Debug\netcoreapp1.0\PartyInvites.pdb

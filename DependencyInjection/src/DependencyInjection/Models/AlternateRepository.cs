@@ -8,7 +8,7 @@ namespace DependencyInjection.Models
     public class AlternateRepository : IRepository
     {
         private Dictionary<string, Product> products;
-
+        //Alternate
         public AlternateRepository()
         {
             products = new Dictionary<string, Product>();

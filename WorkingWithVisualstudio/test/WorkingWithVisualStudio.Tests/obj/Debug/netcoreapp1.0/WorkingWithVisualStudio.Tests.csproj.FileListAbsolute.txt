@@ -12,3 +12,17 @@ C:\Users\Erebus\Documents\Visual Studio 2017\Projects\WorkingWithVisualstudio\te
 C:\Users\Erebus\Documents\Visual Studio 2017\Projects\WorkingWithVisualstudio\test\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp1.0\WorkingWithVisualstudio.pdb
 C:\Users\Erebus\Documents\Visual Studio 2017\Projects\WorkingWithVisualstudio\test\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp1.0\WorkingWithVisualStudio.Tests.dll
 C:\Users\Erebus\Documents\Visual Studio 2017\Projects\WorkingWithVisualstudio\test\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp1.0\WorkingWithVisualStudio.Tests.pdb
+C:\Users\Erebus\Source\Repos\Core\WorkingWithVisualstudio\test\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Erebus\Source\Repos\Core\WorkingWithVisualstudio\test\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp1.0\xunit.runner.utility.dotnet.dll
+C:\Users\Erebus\Source\Repos\Core\WorkingWithVisualstudio\test\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp1.0\xunit.runner.reporters.dotnet.dll
+C:\Users\Erebus\Source\Repos\Core\WorkingWithVisualstudio\test\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp1.0\WorkingWithVisualStudio.Tests.deps.json
+C:\Users\Erebus\Source\Repos\Core\WorkingWithVisualstudio\test\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp1.0\WorkingWithVisualStudio.Tests.runtimeconfig.json
+C:\Users\Erebus\Source\Repos\Core\WorkingWithVisualstudio\test\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp1.0\WorkingWithVisualStudio.Tests.runtimeconfig.dev.json
+C:\Users\Erebus\Source\Repos\Core\WorkingWithVisualstudio\test\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp1.0\WorkingWithVisualStudio.Tests.dll
+C:\Users\Erebus\Source\Repos\Core\WorkingWithVisualstudio\test\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp1.0\WorkingWithVisualStudio.Tests.pdb
+C:\Users\Erebus\Source\Repos\Core\WorkingWithVisualstudio\test\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp1.0\WorkingWithVisualstudio.dll
+C:\Users\Erebus\Source\Repos\Core\WorkingWithVisualstudio\test\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp1.0\WorkingWithVisualstudio.pdb
+C:\Users\Erebus\Source\Repos\Core\WorkingWithVisualstudio\test\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp1.0\WorkingWithVisualStudio.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Erebus\Source\Repos\Core\WorkingWithVisualstudio\test\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp1.0\WorkingWithVisualStudio.Tests.AssemblyInfo.cs
+C:\Users\Erebus\Source\Repos\Core\WorkingWithVisualstudio\test\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp1.0\WorkingWithVisualStudio.Tests.dll
+C:\Users\Erebus\Source\Repos\Core\WorkingWithVisualstudio\test\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp1.0\WorkingWithVisualStudio.Tests.pdb

@@ -18,11 +18,11 @@
             </tr>
         </thead>
         <tbody>
-            @foreach (var item in Model)
+            @foreach (var p in Model)
             {
                 <tr>
-                    <td>@item.Name</td>
-                    <td>@($"{item.Price:c2}")</td>
+                    <td>@p.Name</td>
+                    <td>@($"{p.Price:c2}")</td>
                 </tr>
             }
         </tbody>

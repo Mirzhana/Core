@@ -8,7 +8,8 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using ApiControllers.Models;
-
+using Microsoft.Net.Http.Headers;
+using Microsoft.AspNetCore.Mvc.Formatters;
 namespace ApiControllers
 {
     public class Startup
@@ -18,7 +19,11 @@ namespace ApiControllers
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddSingleton<IRepository,MemoryRepository>();
-            services.AddMvc();
+            services.AddMvc().AddXmlDataContractSerializerFormatters().AddMvcOptions(opts => {
+                opts.FormatterMappings.SetMediaTypeMappingForFormat("xml", new MediaTypeHeaderValue("application/xml"));
+                opts.RespectBrowserAcceptHeader = true;
+                opts.ReturnHttpNotAcceptable = true;
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

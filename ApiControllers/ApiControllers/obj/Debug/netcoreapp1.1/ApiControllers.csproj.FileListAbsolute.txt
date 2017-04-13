@@ -1,0 +1,9 @@
+C:\Users\Erebus\Source\Repos\Core\ApiControllers\ApiControllers\bin\Debug\netcoreapp1.1\ApiControllers.deps.json
+C:\Users\Erebus\Source\Repos\Core\ApiControllers\ApiControllers\bin\Debug\netcoreapp1.1\ApiControllers.runtimeconfig.json
+C:\Users\Erebus\Source\Repos\Core\ApiControllers\ApiControllers\bin\Debug\netcoreapp1.1\ApiControllers.runtimeconfig.dev.json
+C:\Users\Erebus\Source\Repos\Core\ApiControllers\ApiControllers\bin\Debug\netcoreapp1.1\ApiControllers.dll
+C:\Users\Erebus\Source\Repos\Core\ApiControllers\ApiControllers\obj\Debug\netcoreapp1.1\ApiControllers.csprojResolveAssemblyReference.cache
+C:\Users\Erebus\Source\Repos\Core\ApiControllers\ApiControllers\obj\Debug\netcoreapp1.1\ApiControllers.AssemblyInfo.cs
+C:\Users\Erebus\Source\Repos\Core\ApiControllers\ApiControllers\bin\Debug\netcoreapp1.1\ApiControllers.pdb
+C:\Users\Erebus\Source\Repos\Core\ApiControllers\ApiControllers\obj\Debug\netcoreapp1.1\ApiControllers.dll
+C:\Users\Erebus\Source\Repos\Core\ApiControllers\ApiControllers\obj\Debug\netcoreapp1.1\ApiControllers.pdb

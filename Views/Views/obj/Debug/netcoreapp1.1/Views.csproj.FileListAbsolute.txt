@@ -1,0 +1,9 @@
+C:\Users\Erebus\Source\Repos\Core\Views\Views\bin\Debug\netcoreapp1.1\Views.deps.json
+C:\Users\Erebus\Source\Repos\Core\Views\Views\bin\Debug\netcoreapp1.1\Views.runtimeconfig.json
+C:\Users\Erebus\Source\Repos\Core\Views\Views\bin\Debug\netcoreapp1.1\Views.runtimeconfig.dev.json
+C:\Users\Erebus\Source\Repos\Core\Views\Views\bin\Debug\netcoreapp1.1\Views.dll
+C:\Users\Erebus\Source\Repos\Core\Views\Views\bin\Debug\netcoreapp1.1\Views.pdb
+C:\Users\Erebus\Source\Repos\Core\Views\Views\obj\Debug\netcoreapp1.1\Views.csprojResolveAssemblyReference.cache
+C:\Users\Erebus\Source\Repos\Core\Views\Views\obj\Debug\netcoreapp1.1\Views.AssemblyInfo.cs
+C:\Users\Erebus\Source\Repos\Core\Views\Views\obj\Debug\netcoreapp1.1\Views.dll
+C:\Users\Erebus\Source\Repos\Core\Views\Views\obj\Debug\netcoreapp1.1\Views.pdb
